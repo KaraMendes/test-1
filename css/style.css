@@ -1,0 +1,466 @@
+h1 {
+    font-family: "Trajan Pro 3";
+}
+h3 {
+    font-family: "Trajan Pro 3";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 41px;
+    color: #000000;
+}
+h4 {
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 41px;
+    color: #000000;
+}
+h5 {
+    font-family: "Trajan Pro 3";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 41px;
+    color: #000000;
+}
+p {
+    font-family: "Trajan Pro 3";
+    font-size: 18px;
+}
+span {
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    color: #828282;
+}
+.container {
+    max-width: 100%;
+    display: block;
+}
+.row {
+    max-width: 100%;
+}
+.header {
+    position: absolute;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    max-width: 100%;
+    display: contents;
+    margin-bottom: 40px;
+}
+.logo {
+    position: absolute;
+    right: 0;
+    top: 18%;
+    bottom: 99.28%;
+}
+.main-menu, a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+    margin-top: 20px;
+    padding-right: 20px;
+    flex-wrap: wrap;
+}
+.btn-svz {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #000000;
+    border-radius: 5px;
+    border: black solid 1px;
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23.98px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.btn-svz-2 {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #000000;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: black solid 1px;
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.btn-svz-3 {
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: black solid 1px;
+    margin-top: 20px;
+    margin-left: 170px;
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+}
+.btn-svz-4 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background: #000000;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: black solid 1px;
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.btn-svz-5 {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: black solid 1px;
+    margin-top: 20px;
+    margin-left: 220px;
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+}
+.btn-zps {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: black solid 1px;
+    margin-top: 20px;
+
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+
+}
+.about-us {
+    max-width: 1600px;
+    display: block;
+    margin-bottom: 100px;
+}
+.news {
+    max-width: 1600px;
+    margin-bottom: 50px;
+}
+.events {
+    max-width: 1600px;
+}
+.events-bg {
+    padding-top: 50px;
+    background-color: rgba(0, 0, 0, 0.03);
+    padding-bottom: 100px;
+}
+.video-bg {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.timetable {
+    max-width: 1600px;
+    margin-top: 50px;
+}
+.obr {
+    max-width: 1600px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+.opt {
+    max-width: 1600px;
+    margin-bottom: 150px;
+}
+.osn {
+    max-width: 1600px;
+    margin-bottom: 150px;
+}
+.v-z {
+    max-width: 1600px;
+    margin-bottom: 150px;
+}
+.certif {
+    max-width: 1600px;
+    margin-bottom: 150px;
+}
+.media-m {
+    max-width: 1600px;
+}
+.news-txt {
+    max-width: 370px;
+    max-height: 500px;
+    display: block;
+}
+.news-txt p {
+    font-family: 'Iowan Old Style';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 50px;
+}
+.news-txt h5 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.events-card {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+.about-us-2 {
+    padding-bottom: 60px;
+}
+.mesto {
+    max-width: 1600px;
+    display: block;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.mesto-2 {
+    padding-bottom: 60px;
+}
+.slider-s {
+    margin-top: 170px;
+}
+.slider-s img {
+    margin-right: 40px;
+}
+.list-1 {
+    display: block;
+    padding-top: 157px;
+}
+.svz-bg {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+.svz {
+    max-width: 1600px;
+    padding: 50px;
+    text-align: center;
+}
+footer {
+    background-color: #000000;
+}
+.footer {
+    max-width: 1600px;
+    padding-top: 100px;
+
+}
+.ftr{
+    list-style-type: none;
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.ftr-2 {
+    margin-top: 100px;
+    padding-bottom: 60px;
+}
+.ftr-2 h5 {
+    color: #FFFFFF;
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: right;
+    margin-top: 20px;
+}
+.list-1, h1 {
+    font-size: 52px;
+    font-weight: 300;
+    line-height: 72.8px;
+    color: #000000;
+}
+.list-1, p {
+    font-family: 'Iowan Old Style';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 180%;
+    color: #828282;
+}
+.pht-list-1 {
+    display: block;
+}
+.pht-1 {
+    margin-left: 150px;
+    margin-top: 26px;
+    max-width: 600px;
+    max-height: 702px;
+}
+.pht-2 {
+    margin-top: -430px;
+    margin-left: -20px;
+    max-width: 370px;
+    max-height: 500px;
+}
+.pht-3 {
+    max-width: 628px;
+    max-height: 780px;
+}
+.pht-4 {
+    max-width: 368px;
+    max-height: 609;
+}
+.pht-5 {
+    max-width: 368px;
+    max-height: 609;
+}
+}
+.list-3 {
+    max-width: 416px;
+    max-height: 41px;
+    padding-top: 30px;
+}
+.card {
+    border: unset;
+}
+.card-body {
+    padding: unset;
+}
+.btn-prd {
+    position: relative;
+    left: 40%;
+    width: 150px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: black solid 1px;
+    background-color: rgba(0, 0, 0, 0.03);
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+}
+.btn-prd-1 {
+    position: relative;
+    left: 40%;
+    width: 150px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: black solid 1px;
+    background-color: rgba(0, 0, 0, 0.03);
+    margin-top: 30px;
+
+    font-family: 'Trajan Pro 3';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+}
+@media (max-width: 767px) {
+    /*xs*/
+    .btn-svz {
+        width: 100px;
+        height: 30px;
+    }
+    .btn-svz, span {
+        font-size: 12px;
+    }
+    .logo {
+        left: 0px;
+    }
+    .main-menu {
+        font-size: 11px;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    /*sm*/
+    .btn-svz {
+        width: 100px;
+        height: 30px;
+    }
+    .btn-svz, span {
+        font-size: 12px;
+    }
+    .logo {
+        left: 0px;
+    }
+    .main-menu {
+        font-size: 11px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    /*md*/
+    .btn-svz {
+        width: 100px;
+        height: 30px;
+    }
+    .btn-svz, span {
+        font-size: 12px;
+    }
+    .logo {
+        left: 20px;
+    }
+    .main-menu, a {
+        font-size: 12px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1500px) {
+    /*lg*/
+    .logo {
+        left: 10px;
+    }
+    .main-menu, a {
+        font-size: 12px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .btn-svz {
+        width: 100px;
+        height: 30px;
+    }
+    .btn-svz, span {
+        font-size: 12px;
+    }
+}
